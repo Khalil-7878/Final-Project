@@ -12,6 +12,14 @@ void AddTask()
 {
     cout << "Task added successfully." << endl;
 }
+
+
+
+
+void EditTasks()
+{
+    cout << "Task edited successfully." << endl;
+}
 void DeleteTask()
 {
     cout << "Task deleted successfully." << endl;
